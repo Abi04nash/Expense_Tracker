@@ -1,12 +1,40 @@
-# React + Vite
+# 💸 Expense Tracker App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully functional **Expense Tracker** built using **React.js**, styled with **CSS**, and powered by **React Router** and **Chart.js** for interactive navigation and beautiful data visualization.
 
-Currently, two official plugins are available:
+> Track, manage, and visualize your income and expenses — all in a clean, responsive UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔗 Live Demo
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 [View Live](https://abi04nash.github.io/Expense_Tracker/)
+
+---
+
+## 🎯 Features
+
+- ➕ Add and delete income/expense transactions
+- 📊 Dynamic bar charts using **Chart.js**
+- 🌐 Multi-page navigation using **React Router**
+- 💻 Fully responsive design for mobile & desktop
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology     | Purpose                       |
+|----------------|-------------------------------|
+| React.js       | Frontend framework            |
+| CSS            | Styling                       |
+| React Router   | Multi-page routing            |
+| Chart.js       | Charts and visual analytics   |
+| LocalStorage   | Data persistence              |
+
+---
+
+## 🥓 Preview
+![Preview](https://github.com/user-attachments/assets/845863f1-9174-4e5c-bee2-3eda39ba78e3)
+![Preview](https://github.com/user-attachments/assets/1121627c-6536-435b-b69d-d25e9dff9aef)
+
+
